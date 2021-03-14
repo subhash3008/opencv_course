@@ -20,7 +20,7 @@
     </Image>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Project1.cpp">
+    <ClCompile Include="Project2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
